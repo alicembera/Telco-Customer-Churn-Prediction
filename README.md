@@ -89,10 +89,18 @@ Churn analysis represents a strategic initiative aimed at leveraging data-driven
 
 ### Thank you!
 
-Link to article on Medium:
+Link to article on Medium: https://medium.com/@mberaalice7/customer-churn-prediction-and-retention-strategies-for-a-telecommunications-company-machine-89bcd07c8a44
 
 
 ### Power BI Visualizations
+![image](https://github.com/alicembera/Telco-Customer-Churn-Prediction/assets/160122113/5a3cf403-eb0c-400a-bbe2-16dd23142907)
+
+![image](https://github.com/alicembera/Telco-Customer-Churn-Prediction/assets/160122113/799b11c9-a6ad-4d7e-811e-1d7a77f44b10)
+
+![image](https://github.com/alicembera/Telco-Customer-Churn-Prediction/assets/160122113/67c159ec-d938-436a-87c3-74c5cb74b2e3)
+
+
+
 
 
 
